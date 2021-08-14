@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.img{
+  text-align: center;
+}
+.img img {
+    width: 100px;
+    border-radius: 50px;
+    
+}
+.sheet{
+    width: 300px;
+    background-color: #474E5E;
+    height: 100vh;
+    color: white;
+    padding: 20px;
+}
+
+.perfil_profesional{
+    width: 500px;
+    height: 100vh;
+    background-color: #4c5975;
+    padding: 20px;
+    color: white;
+
+}
